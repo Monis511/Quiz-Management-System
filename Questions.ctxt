@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Questions
+comment1.params=
+comment1.target=Questions()
+comment10.params=opt3
+comment10.target=void\ setOpt3(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ getOpt4()
+comment12.params=opt4
+comment12.target=void\ setOpt4(java.lang.String)
+comment2.params=question\ opt1\ opt2\ opt3\ opt4
+comment2.target=Questions(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getQuestion()
+comment4.params=question
+comment4.target=void\ setQuestion(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getOpt1()
+comment6.params=opt1
+comment6.target=void\ setOpt1(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getOpt2()
+comment8.params=opt2
+comment8.target=void\ setOpt2(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getOpt3()
+numComments=13
